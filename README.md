@@ -1,13 +1,16 @@
-# Hi there 👋, I'm [Santosh Thapa]  
+# Hi there 👋, I'm **Santosh Thapa**  
 
 🚀 **Software Engineer | MERN Stack Developer**  
-Fueled by a passion for innovation, I specialize in creating intuitive user experiences that bridge design and functionality. I thrive on turning complex ideas into streamlined, impactful solutions. Always eager to explore cutting-edge technologies and contribute to the developer community.  
+🎯 Code, Coffee, and Creativity! MERN Stack Developer | Crafting innovative solutions, one commit at a time 🚀 | Embracing new challenges and growth 💡  
 
+🌟 [My Portfolio](https://santosh-gamma.vercel.app/)
 ---
+
 
 ## 🛠 Tech Stack  
 - React  
-- Next.js  
+- Next.js
+- HTML5
 - Sass  
 - Git  
 - Node.js  
@@ -22,7 +25,10 @@ Fueled by a passion for innovation, I specialize in creating intuitive user expe
    - A ChatGPT Clone offering free unlimited image generation & premium voice chat features.  
 
 🔹 [Taskify](https://taskifyapp-smoky.vercel.app/)  
-   - Streamlined task management app with advanced functionalities and a user-friendly interface.  
+   - Streamlined task management app with advanced functionalities and a user-friendly interface.
+      
+🔹 For more projects, check out my [Portfolio](https://santosh-gamma.vercel.app/).
+
 
 ---
 
@@ -30,4 +36,5 @@ Fueled by a passion for innovation, I specialize in creating intuitive user expe
 
 - [LinkedIn](https://in.linkedin.com/in/santosh986?trk=profile-badge)  
 - [X (formerly Twitter)](https://x.com/SantoshThapa689)  
-- [Portfolio](https://santosh-gamma.vercel.app/)  
+- [Instagram](https://www.instagram.com/santoshh689)
+
