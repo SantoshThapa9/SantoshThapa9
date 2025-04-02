@@ -25,7 +25,7 @@
    - A ChatGPT Clone offering free unlimited image generation & premium voice chat features.  
 
 🔹 [Taskify](https://taskifyapp-smoky.vercel.app/)  
-   - Streamlined task management app with advanced functionalities and a user-friendly interface.
+   - A simple and efficient task management app with database integration for seamless cross-device access and data persistence..
       
 🔹 For more projects, check out my [Portfolio](https://santosh-gamma.vercel.app/).
 
