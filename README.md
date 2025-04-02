@@ -1,7 +1,7 @@
 # Hi there 👋, I'm **Santosh Thapa**  
 
-🚀 **Software Engineer | MERN Stack Developer**  
-🎯 Code, Coffee, and Creativity! MERN Stack Developer | Crafting innovative solutions, one commit at a time 🚀 | Embracing new challenges and growth 💡  
+🚀 **Software Engineer | Frontend Developer**  
+🎯 Code, Coffee, and Creativity! | Crafting innovative solutions, one commit at a time 🚀 | Embracing new challenges and growth 💡  
 
 🌟 [My Portfolio](https://santosh-gamma.vercel.app/)
 ---
@@ -13,9 +13,8 @@
 - HTML5
 - Sass  
 - Git  
-- Node.js  
-- MongoDB  
-- Docker  
+- Node.js
+- MongoDb
 
 ---
 
