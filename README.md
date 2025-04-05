@@ -8,7 +8,8 @@
 
 
 ## 🛠 Tech Stack  
-- React  
+- Javascript
+- React
 - Next.js
 - HTML5
 - Sass  
@@ -20,7 +21,7 @@
 
 ## 🌟 Featured Projects  
 
-🔹 [KURA AI](https://kura-iota.vercel.app/)  
+🔹 [KURA AI ChatGPT Clone](https://kura-iota.vercel.app/)  
    - A ChatGPT Clone offering free unlimited image generation & premium voice chat features.  
 
 🔹 [Taskify](https://taskifyapp-smoky.vercel.app/)  
