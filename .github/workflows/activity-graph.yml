@@ -4,13 +4,25 @@ on:
     paths:
       - 'README.md'
   schedule:
-    - cron: '0 0 * * *'  
+    - cron: '0 0 * * *'   # daily at 00:00 UTC
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # 1. Check out the repo
       - uses: actions/checkout@v3
+
+      # 2. Generate the SVG
       - uses: Ashutosh00710/github-readme-activity-graph@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           output: 'activity-graph.svg'
+
+      # 3. Commit & push the SVG back to your repo
+      - name: Commit updated activity graph
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: GitHub Actions
+          author_email: actions@github.com
+          message: 'chore: update activity graph'
+          add: 'activity-graph.svg'
