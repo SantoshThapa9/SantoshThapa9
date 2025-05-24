@@ -1,0 +1,16 @@
+name: Generate Activity Graph
+on:
+  push:
+    paths:
+      - 'README.md'
+  schedule:
+    - cron: '0 0 * * *'  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Ashutosh00710/github-readme-activity-graph@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          output: 'activity-graph.svg'
