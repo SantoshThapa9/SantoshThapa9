@@ -57,14 +57,6 @@
 
 <hr style="border:1px dashed #61DAFB; margin: 40px 0;">
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santosh986&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
-</p>
-
-<hr style="border:1px dashed #61DAFB; margin: 40px 0;">
-
 ## 📫 Let’s Connect
 
 <p align="center">
