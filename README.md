@@ -5,7 +5,7 @@
   <h1 style="margin:10px 0; color:#232F3E;">Hi there, I'm Santosh Thapa 👋</h1>
   <p style="font-size:1.1em; color:#555;">Software Engineer</p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&width=500&lines=Code,+Coffee,+Creativity!;one+commit+at+a+time" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&width=500&lines=Code,+Coffee,+Creativity!;One+Commit+at+a+Time" alt="Typing SVG"/>
 </div>
 
 <hr style="border:1px dashed #61DAFB; margin: 40px 0;">
@@ -34,21 +34,22 @@
   <tr>
     <td width="50%" valign="top">
       <strong><a href="https://kura-iota.vercel.app/">KURA AI</a></strong><br/>
-      1:1 ChatGPT clone with image-gen & real-time voice using Azure & Gemini API.
+     Kura AI – A SaaS ChatGPT‑style AI web app built with Next.js, React.js, and Sass modules, featuring Google Generative AI & DeepSeek integration, real‑time voice chat (Azure Cognitive Speech & AWS Polly), payment gateway support, and 98–100 Lighthouse performance.
     </td>
-    <td width="50%" valign="top">
-      <strong><a href="https://taskifyapp-smoky.vercel.app/">Taskify</a></strong><br/>
-      Advanced task manager w/ real-time sync, inline edits, themes & bulk ops.
+     <td width="50%" valign="top">
+      <strong><a href="https://santosh-gamma.vercel.app/">Geer</a></strong><br/>
+      Geer – A full‑stack e‑commerce platform built with Next.js & MongoDB, featuring dynamic search, responsive UI, secure admin auth, AI‑powered chatbot, and CI/CD deployment.
     </td>
+  
   </tr>
   <tr>
     <td width="50%" valign="top">
       <strong><a href="https://soft-sell-two-lime.vercel.app/">SoftSell</a></strong><br/>
       Modern landing page for software reselling with AI assistant integration.
     </td>
-    <td width="50%" valign="top">
-      <strong><a href="https://santosh-gamma.vercel.app/">Geer</a></strong><br/>
-      E-commerce site w/ fast performance, responsive UI & CRUD operations.
+     <td width="50%" valign="top">
+      <strong><a href="https://taskifyapp-smoky.vercel.app/">Taskify</a></strong><br/>
+      Advanced task manager w/ real-time sync, inline edits, themes & bulk ops.
     </td>
   </tr>
 </table>
