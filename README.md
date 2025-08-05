@@ -1,15 +1,16 @@
-<div align="center" style="margin-top:-80px;">
-  <img src="https://santosh-gamma.vercel.app/logo180.png" alt="Santosh Thapa" width="60" style="border-radius:50%; "/> 
-  <h2>Hello there, I'm Santosh Thapa</h2>
-  <p >Software Engineer</p>
-<hr style="border:1px dashed #61DAFB; margin: 40px 0;">
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&width=500&lines=Code,+Coffee,+Creativity!;One+Commit+at+a+Time" alt="Typing SVG"/>
+<div style="display:flex; align-items:center; gap:10px;">
+  <img src="https://santosh-gamma.vercel.app/logo180.png" alt="Santosh Thapa" width="60" style="border-radius:50%; object-fit:cover;"/>
+  <h1 >Hi, I'm Santosh</h1>
 </div>
 
-<hr style="border:1px dashed #61DAFB; margin: 40px 0;">
+## Full Stack Developer 
 
-<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Bold&size=24&pause=1000&color=61DAFB&width=500&lines=Code,+Coffee,+Creativity!;One+Commit+at+a+Time" alt="Typing SVG"/>
+
+
+
+<p  >
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" alt="React"/>
@@ -17,6 +18,7 @@
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Google_Generative_AI-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Generative AI"/>
@@ -29,22 +31,30 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
-
-<hr style="border:1px dashed #61DAFB; margin: 40px 0;">
-
-
-<h2 align="center" style="color:#61DAFB;">
-  Working on <u>private repos</u>.
-</h2>
-
-<p align="center" style="margin-top:20px;">
-  Explore my portfolio at <a href="https://www.santoshthapa.xyz" target="_blank" style="color:#61DAFB; font-weight:bold;">santoshthapa.xyz</a>
-</p>
-
-<hr style="border:1px dashed #61DAFB; margin: 40px 0;">
+---
 
 
-<p align="center">
+#### WORKING ON PRIVATE REPOS.
+---
+
+
+<div style="display: flex; align-items: center; gap: 12px;">
+
+  <h4 >Explore My Portfolio</h4>
+
+  <a href="https://www.santoshthapa.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/SantoshThapa.xyz-61DAFB?style=for-the-badge&logo=google-chrome&logoColor=black" style="margin-top:7px" alt="Visit Portfolio" />
+  </a>
+
+</div>
+
+---
+
+
+
+##  Let's Connect
+
+<p  >
   <a href="https://in.linkedin.com/in/santosh986" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -58,3 +68,5 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
+---
