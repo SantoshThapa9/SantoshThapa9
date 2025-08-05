@@ -1,7 +1,4 @@
-<div style="display:flex; align-items:center; gap:10px;">
-  <img src="https://santosh-gamma.vercel.app/logo180.png" alt="Santosh Thapa" width="60" style="border-radius:50%; object-fit:cover;"/>
-  <h1 >Hi, I'm Santosh</h1>
-</div>
+# Hi, I'm Santosh
 
 ## Full Stack Developer 
 
