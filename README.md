@@ -2,7 +2,7 @@
 
 
 
-## AI Full Stack Engineer 
+## AI Full Stack Engineer | Software Engineer | React.js
 
 
 
